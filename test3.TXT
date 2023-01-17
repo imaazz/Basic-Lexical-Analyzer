@@ -1,0 +1,18 @@
+#include <iostream>
+#include <string>
+using namespace std;
+bool check(int n)
+{
+if (n>0)
+return true;
+else
+return false;
+}
+main()
+{
+int n;
+cout<<"Enter number to check";
+cin>>n;
+check(n);
+return;
+}
