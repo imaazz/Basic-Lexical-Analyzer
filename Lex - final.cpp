@@ -1,9 +1,4 @@
-// Lexical Analyzer
-// Teacher :Sir Shahzad
-// Members:
-// Roll:19k-0148 Muhammad Maaz
-// Roll:19k-0133 Saad Ali
-// Roll:19k-0346 Faizan Sadiq
+
 //Summary:-In this project we will parse a C code into words and will identify the Keywords,Operators,Comments 
 //Data Types,Specifiers,Functions ,Loops ,Conditional Statements and Libraries .   
 #include "lex.h"
